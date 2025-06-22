@@ -2,45 +2,8 @@
 layout: default
 ---
 
-### Course Introduction
-* [8th Grade Night Presentation](https://docs.google.com/presentation/d/1hvNR-7O2xrO2HkLfoFMS5jWQ4QSTdv9m-vXTorBZ_BU/edit?usp=sharing)
-* [Back to School Night presentation](https://docs.google.com/presentation/d/1ZtnVADnaV0Zw3bwaMI-afDTKzfhJmo93TUDrQmH4tI8/edit?usp=sharing)
-* [Course Syllabus](https://docs.google.com/document/d/19jZoI2l46LKBNF0GcnbzzTqEN8XOWPozDbpcxr4MXQY/edit?usp=sharing)
-* [Intro Slide Presentations](https://docs.google.com/presentation/d/1n-AMkqXPg63QfbMCoench9uYc3RVrwcT4IavPyGZ9TA/edit?usp=sharing)
-* [Please enter your contact information](https://forms.gle/NA7xPvTs3wK6e2ce7)
-<!-- * [Register for your CSAwesome class](https://runestone.academy/runestone/default/user/register) (Your instructor will provide the name of the course) -->
-* [Sign up for Piazza](
-https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provide the class access code)
-<!-- * Sign up for my AP Classroom at [https://myap.collegeboard.org/login](https://myap.collegeboard.org/login) with join code: D4AVA3 -->
 
-### Java Basics
-* [Four 4s challenge](https://apcslowell.github.io/APJavaBasics/)
-* [Variables](https://apcslowell.github.io/APJavaVariables/)
-* Slide Presentation: [Basics](https://docs.google.com/presentation/d/1dW8a-f1UdXV8hgziJg_f8XWj0HYEVr7RTxxxN0fcRVM/edit?usp=sharing)
-<!--  CSAwesome Assignments:  [Unit 1](https://runestone.academy/runestone/assignments/chooseAssignment.html) [Units 2 & 3](https://runestone.academy/runestone/assignments/chooseAssignment.html) -->
-
-
-### Introduction to Processing & GitHub
-* Slide Presentation: [apjavaProcessing](https://docs.google.com/presentation/d/1eWaXLIN25ESY1guw9W0WocvolCZ8mzTO8hC69jWzDpk/edit?usp=sharing)
-* Sign up for a free [GitHub](https://github.com/) account.
-* [Create a design for a virtual pet and display it on the web](https://github.com/APCSLowell/VirtualPet/blob/gh-pages/README.md#virtual-pet)
-* [Use the light sensor in an Arduino to interact with your pet](https://github.com/APCSLowell/LightSensorController#use-an-adafruit-circuit-playground-as-an-input-device-in-a-processing-program)   
-* [Use other buttons or sensors in an Arduino as a controller for a Processing program](https://github.com/APCSLowell/ArduinoController/blob/main/README.md#use-other-features-of-an-adafruit-circuit-playground-as-an-input-device-in-a-processing-program)  
-* Worksheet: [while & for loops](https://docs.google.com/document/d/1CsvcJqJnu07nx8LvlLL5K7QuaCjTStfLqd6VEBVAjYg/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1MQN9k6EUr-TIkiThydvUVmaVqxjZb8l6P9yzj55yNeI/edit?usp=sharing)
-* Worksheet: [Nested loops](https://drive.google.com/open?id=1kzbAIebvhj0euZFYFa1WSLWWy_2cWwrq_sL0Ae4CaAw) and [solutions](https://drive.google.com/open?id=1h4wqYvWsU1qiXAKUxNh-f1lmQV4A6FC0h5kLeKnSxYE)
-* [Scales](https://github.com/APCSLowell/Scales/blob/main/README.md#scales)   
- 
-
-<!-- ### Introduction to Git & GitHub
-* Slide Presentation: [apjavaGitHub](https://docs.google.com/presentation/d/1cZCHVE-uhjBDKu7bRKYKheRbYDhsFWKiydWx1dScvyc/edit?usp=sharing)
-
-
-* Learn Unix [Command Line](https://github.com/APCSLowell/CommandLine) navigation
-* Practice your Unix wizardry in the mysterious land of [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
-* A [Sample Assignment](https://github.com/APCSLowell/SampleAssignment#sample-assignment) that uses git, GitHub and Sublime to simulate the workflow in professional software development -->
-
-
-### Fall Semester Programming Projects with Processing & GitHub
+### Fall Semester
 <!-- * [Original Design](https://github.com/APCSLowell/OriginalDesign) -->
 * Slide Presentation: [Math.random()](https://docs.google.com/presentation/d/1U7DH8_1SblU143uHBmQe_auXeJYVl8polM3vyZJvr9c/edit?usp=sharing)
 * Worksheet: [Math.random](https://drive.google.com/open?id=0Bz2ZkT6qWPYTSU84X3FSOGYwdFU) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTdVo1enRuRWhRbkU)
@@ -72,7 +35,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Worksheet: [Review for fall final](https://docs.google.com/document/d/1S11g5bvyo3VBmcWehHtfPxPSICV1h6guHTVbUHiKLmQ/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1WM6QRWs0W8cqmeClYITkPeSsuG16PUflz17uLVOQ6Rk/edit?usp=sharing)
 
 
-### Spring Semester Programming Projects with Processing & GitHub
+### Spring Semester
 * Slide Presentation: [APJavaStrings](https://docs.google.com/presentation/d/15L0nvRrX5IK2GAGML06tgwUt_aqs3XDpg-TdNXuHs_w/edit?usp=sharing)
 * CodingBat problem set **Don't forget to log in!** [googlebillboard](https://codingbat.com/home/simona1@sfusd.edu/googlebillboard)
 * [Google Billboard](https://github.com/APCSLowell/GoogleBillboard#google-billboard)
@@ -108,19 +71,6 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 
 
 
-### Other Slide Presentations
-* First Semester: [Fall Final Exam Review](https://docs.google.com/presentation/d/1B78Dw4psOG3gYXT8HU1w2dJb81rA-uI05YPsHS9HOLU/edit?usp=sharing)
-* Second Semester: <!-- [Raspberry Pi](https://drive.google.com/open?id=0Bz2ZkT6qWPYTQk85WklyVml2M00) --> [Sorting](https://docs.google.com/presentation/d/10LtPcP7DGoZVvtN0HFcx0eSIxjJkOzD0gsPeOr2-BK8/edit?usp=sharing) [AP exam](https://docs.google.com/presentation/d/1OCWfsoU2-0yzh1yUxgZW-K7xQedB0STDw-hNDqWDJEg/edit?usp=sharing) [Important Changes to 2020 exam](https://docs.google.com/presentation/d/1qch2LPYgvxIkEo6Iijbs4Mg96afZ5UoH9y7JBaAOuL4/edit?usp=sharing)
-
-
-<!--
-
-### Other Worksheets
-* [Practice with Classes](https://drive.google.com/open?id=0Bz2ZkT6qWPYTTXNkTmk1SVRoVDg) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTRjUzSDdtX0otT2M)
-* [Recursion 2](https://docs.google.com/document/d/1QdM5uxGaSCQyeIFt7S5uoVWYnznqIFtiCglEn80zcJw/edit?usp=sharing) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTZjk0M2EyN2QtNWVhMi00YmUzLWI2YzgtY2M2NDZlMjljYzA0)
-* [Linear and Binary Search](https://drive.google.com/open?id=0Bz2ZkT6qWPYTNVZEbTNoQ1k2eW8) and [solutions](https://drive.google.com/file/d/1sQUyA7lxbDDkzHkgIAGOc2XWyc6-29Vf/view?usp=sharing)
-
--->
 
  
 ### Examples and other resources
@@ -141,9 +91,3 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * [Free interactive AP Java review site](https://interactivepython.org/runestone/static/JavaReview/index.html)
 * [Information for high school students who want to enroll at City College](https://www.ccsf.edu/en/student-services/admissions-and-registration/admissions/credit-admission/high-school-students.html)
 
-<!--
-### Instructor Resources
-* [Course Pacing](Pacing2017-18.txt)
-* If your students are completely new to programming, you might want to start them off with a few of the [Sparkfun Hotsheets Processing Projects](https://learn.sparkfun.com/resources/77)
-* The [Sparkfun guide to Processing](https://www.nostarch.com/sparkfunprocessing) is an excellent resource for teaching Processing and features the hotsheets projects plus some additional ones
--->
